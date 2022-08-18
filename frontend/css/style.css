@@ -1,0 +1,12 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+header.navbar div.container ul.center {
+    border: 1px solid red;
+    margin: auto;
+    width: 400px;
+    height: fit-content;
+    text-align: center;
+    list-style: none;
+}
