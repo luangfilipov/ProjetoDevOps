@@ -1,0 +1,25 @@
+/* Global */
+* {
+    /* Distance from borders configuration */
+    margin: 0px;
+    padding: 0px;
+
+    /* Font configuration */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: black;
+
+    /* Link configuration */
+    text-decoration: none;
+
+}
+
+/* On hover */
+a:hover {
+    /* Font configuration */
+    color: darkblue;
+
+    /* Link configuration */
+    text-decoration: underline;
+
+}
