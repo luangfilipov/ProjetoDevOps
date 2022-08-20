@@ -23,3 +23,36 @@ a:hover {
     text-decoration: underline;
 
 }
+
+/* Luan page configuration */
+h1.title {
+    /* Font configuration */
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+
+    /* Text configuration */
+    text-align: center;
+
+    /* Position */
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+div.container h1.text {
+    /* Div size */
+    width: 500px;
+
+    /* Text configuration */
+    text-align: justify;
+
+    /* Font configuration */
+    font-size: 11px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+
+    /* Position */
+    margin: auto;
+
+}
