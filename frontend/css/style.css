@@ -1,12 +1,26 @@
+/* Global */
 * {
+    /* Distance */
     margin: 0px;
     padding: 0px;
 }
+
+/* Navbar */
 header.navbar div.container ul.center {
+    /* Border configuration */
     border: 1px solid red;
+    
+    /* Distance */
     margin: auto;
+
+    /* Size configuration */
     width: 400px;
     height: fit-content;
+
+    /* Alignement configuration */
     text-align: center;
+
+    /* List configuration */
     list-style: none;
+    
 }
