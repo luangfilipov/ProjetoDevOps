@@ -14,7 +14,7 @@
 
     elseif($botao =="-")
         echo"<br>Resultado da Soma: " .$Campo1 - $Campo2; //aparece o resultado do campo1 - campo2
-        echo "<br><br><a href=calculadoraform.html> Voltar</a>";  //botão voltar
+        echo "<br><br><a href=Calculadoraform.html> Voltar</a>";  //botão voltar
         
 
 ?>
