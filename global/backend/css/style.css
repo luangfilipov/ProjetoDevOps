@@ -1,0 +1,15 @@
+/* Global */
+* {
+    /* Distance */
+    margin: 0px;
+    padding: 0px;
+
+    /* Link configuration */
+    text-decoration: none;
+
+    /* Font configuration */
+    font-size: 15px;
+    font-family: Arial;
+    color: black;
+
+}
