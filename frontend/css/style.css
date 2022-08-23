@@ -3,6 +3,13 @@
     /* Distance */
     margin: 0px;
     padding: 0px;
+
+    /* Font configuration */
+    color: black;
+
+    /* Text configuration */
+    text-decoration: none;
+
 }
 
 /* Navbar */
@@ -23,4 +30,10 @@ header.navbar div.container ul.center {
     /* List configuration */
     list-style: none;
     
+}
+
+/* List Item */
+header.navbar div.container ul.center li {
+    /* Display configuration */
+    display: inline;
 }
